@@ -862,12 +862,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: '𝑆𝑜𝑢𝑟𝑐𝑒 𝐶𝑜𝑑𝑒',
-                                    url: 'https://github.com/Lord-official/LoRD-MD'
+                                    url: 'https://github.com/LOSTHACKEROFC'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/chirag__bhatnagar?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
@@ -901,12 +901,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: '𝑆𝑜𝑢𝑟𝑐𝑒 𝐶𝑜𝑑𝑒',
-                                    url: 'https://github.com/Lord-official/LoRD-MD '
+                                    url: 'https://github.com/LOSTHACKEROFC '
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝐼𝑛𝑠𝑡𝑎𝑔𝑟𝑎𝑚',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/chirag__bhatnagar?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1795,12 +1795,12 @@ case 'allmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑',
-                                    url: 'https://wa.me/919778383987'
+                                    url: 'https://wa.me/919536476115'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/chirag__bhatnagar?igshid=YmMyMTA2M2Y='
                                 }
                             }]
                         }
@@ -1833,12 +1833,12 @@ break
                 let btn = [{
                                 urlButton: {
                                     displayText: '𝑮𝒊𝒕𝒉𝒖𝒃',
-                                    url: 'https://github.com/Lord-official'
+                                    url: 'https://github.com/LOSTHACKEROFC'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/chirag__bhatnagar?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
