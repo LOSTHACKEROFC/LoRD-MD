@@ -100,7 +100,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 
                                 urlButton: {
                                     displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/chirag__bhatnagar'
                                 }
                             }]
                         }
