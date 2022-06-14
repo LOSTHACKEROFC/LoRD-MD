@@ -28,17 +28,17 @@ global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
-global.linkgh = 'https://github.com/Lord-official'
+global.linkgh = 'https://github.com/LOSTHACKEROFC'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'CHIRAG YOUTUBER'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
+global.watermark = '«CHIRAG.YOUTUBER»🇮🇳'
+global.owner = ['919536476115']
+global.premium = ['919536476115']
+global.packname = 'CHIRAG-YOUTUBER'
+global.author = 'CHIRAG-YOUTUBER'
 global.sessionName = 'lord'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
