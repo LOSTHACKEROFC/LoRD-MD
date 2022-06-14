@@ -95,7 +95,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                            jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
       
                        //    jpegThumbnail: ppuser,
-                            hydratedFooterText: `LoRD-MD`,
+                            hydratedFooterText: `CHIRAG-YOUTUBER`,
                             hydratedButtons: [{
                                 
                                 urlButton: {
