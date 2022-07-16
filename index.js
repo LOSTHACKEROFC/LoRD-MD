@@ -31,7 +31,7 @@ async function startHisoka() {
     const hisoka = hisokaConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['LoRD-MD','Safari','1.0.0'],
+        browser: ['CHIRAG-YOUTUBER','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -42,7 +42,7 @@ async function startHisoka() {
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let pa7rick = await hisoka.sendContact(callerId, global.owner)
-    hisoka.sendMessage(callerId, { text: `Sistem otomatis block!\nJangan menelpon bot!\nSilahkan Hubungi Owner Untuk Dibuka !`}, { quoted : pa7rick })
+    hisoka.sendMessage(callerId, { text: `Automatic system block!\Don't call bots!\Please contact the owner to open !`}, { quoted : pa7rick })
     await sleep(8000)
     await hisoka.updateBlockStatus(callerId, "block")
     }
@@ -99,8 +99,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 
                                 urlButton: {
-                                    displayText: '𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/chirag__bhatnagar'
+                                    displayText: '𝐘𝐎𝐔𝐓𝐔𝐁𝐄😉',
+                                    url: 'https://youtube.com/c/chiragyoutuber'
                                 }
                             }]
                         }
